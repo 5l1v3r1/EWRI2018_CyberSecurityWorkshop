@@ -1,10 +1,8 @@
 # EWRI2018_CyberSecurityWorkshop
 
-### Code and material for EWRI 2018 Technical Workshop on "Cybersecurity Essentials for Water Engineers and Scientists"
+### EWRI 2018 Technical Workshop on "Cybersecurity Essentials for Water Engineers and Scientists"
 
-This repository will be updated in the coming days with the slides that will be used during the workshop.
-
-Participants are encourged to bring a laptop with:
+Participants are encourged to download the slides and bring a laptop with:
 
 1. A recent version of MATLAB (for instance version 2014b and above).
 2. The entire epanetCPA repo from https://github.com/rtaormina/epanetCPA. Please make sure to read the README.md.
